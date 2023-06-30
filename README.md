@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Adam Sori
 
 - 🔭 Atualmente estou trabalhando com back-end
-- 🌱 Estudando React
+- 🌱 Estudando Golang
 
 
 <div align="center">
