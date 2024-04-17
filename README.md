@@ -1,8 +1,7 @@
-### Olá! Eu sou o Adam Sori
+### Hi! I'm Adam.
 
-- 🔭 Atualmente estou trabalhando com back-end
-- 🌱 Estudando Golang
-
+- Senior Software Engineer at Loggi.
+- Learning Golang
 
 <div align="center">
   <a href="https://github.com/adamsori">
