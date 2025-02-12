@@ -1,6 +1,6 @@
 ### Hi! I'm Adam.
 
-- Software Engineer at Loggi.
+- Software Engineer.
 - Learning Golang
 
 <div align="center">
